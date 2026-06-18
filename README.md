@@ -43,10 +43,9 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Top Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Pratham-R-Gowda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pratham-R-Gowda&layout=compact&theme=radical"/>
 </div>
 
