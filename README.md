@@ -53,6 +53,6 @@
 ---
 
 ### ⚡ Quick Facts
-*   💻 I regularly solve problems on HackerRank to sharpen my data structures and algorithms skills.
+*   💻 I regularly solve problems on Leetcode and GeeksforGeeks to sharpen my data structures and algorithms skills.
 *   🔭 Currently exploring advanced classification models and NLP workflows.
-*   📫 How to reach me: **[Add your LinkedIn profile or email link here]**
+*   📫 How to reach me: https://www.linkedin.com/in/pratham-r-gowda/
